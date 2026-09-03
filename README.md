@@ -14,7 +14,7 @@ Choose a web flasher depending on your device:
 
 ## 📡 Connection Diagram
 
-Refer to the following diagram for wiring and connections:
+Refer to the following diagram (For ESP32 C3 Super Mini) for wiring and connections:
 
 ![Connection Diagram](https://vladimirgitsarev.github.io/Tinytosh/img/Tinytosh_bb.jpg)
 
