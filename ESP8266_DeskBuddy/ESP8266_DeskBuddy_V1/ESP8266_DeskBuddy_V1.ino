@@ -362,7 +362,7 @@ void startConfigPortal() {
     display.print("\n\nThen open:\n192.168.4.1");
   }
   display.display();
-
+  // display.invertDisplay(true);
   Serial.println();
   Serial.println("CONFIG PORTAL");
   Serial.print("AP started: "); Serial.println(ok ? "YES" : "NO");
