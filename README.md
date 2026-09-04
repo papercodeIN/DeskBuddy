@@ -8,7 +8,8 @@ Choose a web flasher depending on your device:
 
 - [Tinytosh Web Flasher](https://vladimirgitsarev.github.io/Tinytosh/)
 - [ESCLabs Web Flasher](https://www.esclabs.in/esp-flasher/)
-- [Yeti Firmware Web Flasher](https://www.leroyd.com/beta/)
+- [Yeti Firmware Web Flasher Beta](https://www.leroyd.com/beta/)
+- [Yeti Firmware Web Flasher](https://leroyd.com/)
 
 ---
 
